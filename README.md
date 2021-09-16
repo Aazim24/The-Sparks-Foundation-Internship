@@ -1,8 +1,8 @@
 **The Sparks Foundation - Data Science & Business Analytics Internship ** 
 
 **TASK 1 - Prediction using Supervised Machine Learning  **
-In this task it is required to predict the percentage of a student on the basis of number of hours studied using the Linear Regression supervised machine learning algorithm.  
-Steps:  
+**In this task it is required to predict the percentage of a student on the basis of number of hours studied using the Linear Regression supervised machine learning algorithm.  
+Steps:  **
 
 Step 1 - Importing the dataset  
 Step 2 - Visualizing the dataset  
